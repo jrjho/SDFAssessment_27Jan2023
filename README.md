@@ -1,2 +1,2 @@
-# SDFAssessment_27Jan2023
-# SDFAssessment_27Jan2023 clear
+# For task 1, do not include ".txt" in input command
+
